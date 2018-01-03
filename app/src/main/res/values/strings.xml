@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="continue_scan">Continue Scan</string>
+    <string name="reload_scanner">Reload scanner</string>
+</resources>
